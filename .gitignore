@@ -1,0 +1,14 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore local virtual environments
+rfid-clone-env/
+
+# Ignore local log/data files
+access_log.txt
+clone_log.txt
+original_tag.json
+
+# Ignore VSCode settings (optional)
+.vscode/
