@@ -49,6 +49,8 @@ This project simulates a car key cloning attack using an RFID RC522 module and a
 
 ## Setup
 ### Raspberry Pi
+### Hardware
+![image](https://github.com/user-attachments/assets/0fbb160c-f1e9-4b82-95b1-968083b7fde3)
 ### Libraries
 ### Run simulation
 
