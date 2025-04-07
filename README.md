@@ -16,6 +16,17 @@ This project simulates a car key cloning attack using an RFID RC522 module and a
 
 ---
 
+## Equipment List
+- Raspberry Pi Zero 2 W
+- Micro SD Card
+- Micro USB cable
+- RFID Module-RC522
+- RFID Cards (2)
+
+Optional
+- LCM1602 with LCD
+- 3D case
+
 ## 📁 Folder Structure
 
 | File                | Purpose                                      |
