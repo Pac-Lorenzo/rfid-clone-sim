@@ -28,8 +28,8 @@ This project simulates a car key cloning attack using an RFID RC522 module and a
 
 **Optional**
 - [GPIO Extension Board](https://www.amazon.com/Quluxe-Breakout-Expansion-Assembled-Raspberry/dp/B08D3S6FGH/ref=sr_1_3?crid=3RZ0988LAEAN9&dib=eyJ2IjoiMSJ9.7AeraYdQbqWasB_iyUn19B3qVIpW3FEF9luS7P8ymaMv8t6LqZpI7B3s7MsNfCm8PqGwA-W1wKcwpyrRmSDORq8qlfmjokcP7Q-G0Y02uarV7uO4z8VNxAgSDthZiHetPsQm4rpIGCM8iEicu_SsyX2mJwjK43LQQGoWjC2nQ5K7rrUml62TD_qP4dad8uOjhTTsfbKEbxr-JsXXq0DP6yvZtU04DB_-ZAYRXKWWIKU.CUcGI_4VSj83VNnpwZ5HZL1rMgEX8zjQf-KYQtiNKyg&dib_tag=se&keywords=raspberry+pi+gpio+expansion+board&qid=1744047258&sprefix=raspberry+pi+gpio+expansion+boar%2Caps%2C117&sr=8-3)
-- LCM1602 with LCD
-- 3D case
+- [LCM1602 with LCD](https://www.amazon.com/Freenove-Display-Compatible-Arduino-Raspberry/dp/B0B76Z83Y4/ref=sr_1_1_sspa?crid=3SKH4M30PLI1Q&dib=eyJ2IjoiMSJ9.U2PsoZcMntwSMou6IwN7vrx1GOvgHD22hQ1h8gJqNJXPOjeW75n32NpU5L0bYd7TWoZwBsrhRKXUoYcpQILiWEjCM1DgTY4L38eNVNhblRwoSPMc41RSS1e3JY9NsdL974eKOidw-PPcegHdQbMg1HmCUuJFTiGKgKkQJBZfpaOSkRdWvR8A8t73BrfbHbKMWQ3OKL9-uJTrm5Fa26jaCHIas-GxMKr_37rEbfJtloU.8u6Wh32Xd-oJZ1G4IXsiEHcB35bRAmt_IMw_uykMfjA&dib_tag=se&keywords=LCM1602%2Bi2c&qid=1744048032&sprefix=lcm1602%2Bi2c%2Caps%2C92&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
+
 
 ## 📁 Folder Structure
 
