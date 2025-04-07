@@ -23,7 +23,7 @@ This project simulates a car key cloning attack using an RFID RC522 module and a
 - RFID Module-RC522
 - RFID Cards (2)
 
-Optional
+**Optional
 - LCM1602 with LCD
 - 3D case
 
