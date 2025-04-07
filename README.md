@@ -1,6 +1,6 @@
 # 🔐 RFID Car Key Cloning Simulation
 
-This project simulates a car key cloning attack using an RFID RC522 module and a Raspberry Pi. It demonstrates how weak RFID-based systems (typically found in older vehicles or access control systems) can be compromised and cloned — even if the tag’s UID is different.
+This project simulates a car key cloning attack using an RFID RC522 module and a Raspberry Pi. It demonstrates how weak RFID-based systems (typically found in older vehicles or access control systems) can be compromised and cloned, even if the tag’s UID is different.
 
 ---
 
