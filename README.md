@@ -18,6 +18,16 @@ This project simulates a car key cloning attack using an RFID RC522 module and a
 
 ## DEMO
 
+<p>
+  <img src="https://github.com/Pac-Lorenzo/rfid-clone-sim/blob/1be69a195d9edb1a5922878fa5e694ef540f0be6/Screenshot%202025-04-16%20154740.png" alt="Cloning demo" width="400"/><br><em>Figure 1: Cloning Demo Part 1.</em>
+</p>
+
+<p>
+  <img src="https://github.com/Pac-Lorenzo/rfid-clone-sim/blob/1be69a195d9edb1a5922878fa5e694ef540f0be6/Screenshot%202025-04-16%20154749.png" alt="Cloning demo" width="400"/><br><em>Figure 2: Cloning Demo Part 2.</em>
+</p>
+
+
+
 ---
 
 ## Equipment List
@@ -68,10 +78,16 @@ Connect the RC522 module to the Raspberry Pi as follows:
 > **Note**: Ensure you connect the RC522 to the 3.3V pin, not 5V, to avoid damaging the module.
 
 <p>
-  <img src="https://github.com/user-attachments/assets/0fbb160c-f1e9-4b82-95b1-968083b7fde3" alt="Cloning demo" width="400"/><br><em>Figure 1: RC522 module wiring.</em>
+  <img src="https://github.com/user-attachments/assets/0fbb160c-f1e9-4b82-95b1-968083b7fde3" alt="Cloning demo" width="400"/><br><em>Figure 3: RC522 module wiring.</em>
 </p>
 
+
 **Now your circuit should look like this:**
+<p>
+  <img src="https://github.com/user-attachments/assets/5d0173fc-de7d-4943-880c-87a241dcda97" alt="Cloning demo" width="400"/><br><em>Figure 3: Circuit wiring.</em>
+  
+  <img src="https://github.com/user-attachments/assets/49fb07e3-28e5-4a86-aa24-903965802992" alt="Cloning demo" width="400"/><br><em>Figure 4: Circuit wiring.</em>
+</p>
 
 
 
